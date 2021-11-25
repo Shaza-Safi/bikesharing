@@ -3,8 +3,6 @@
 ## Overview of the Statistical Analysis:
 The aim of the project is to pitch to investors a new idea of setting up a new bike sharing business. In order to convince the investors a bike sharing analysis is conducted on real life bike sharing business in New York City in order to understand how the business works and concepts that may impact the growth and prosperity of setting up such a business in another city.
 
-## Link to my Tableau Public Story:
-
 ## Results:
 
 Using Tableau I created visualizations that show the following:
@@ -27,7 +25,9 @@ Using Tableau I created visualizations that show the following:
 - The User Trips by Gender by Weekday
 ![Trip_Gender_by_weekday](https://user-images.githubusercontent.com/88908758/143396482-fb7e099e-36ec-44c4-b07c-fbbc00918293.PNG)
 
-
+- 
+## Link to my Tableau Public Story:
+###[link to dashboard](https://public.tableau.com/app/profile/shaza.sadi/viz/Bike_Sharing_Challenge_Final/NYCBikeSharing "link to dashboard")
 
 ## Summary: 
 
